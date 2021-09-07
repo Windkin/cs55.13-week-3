@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "date-fns": "^2.23.0",
     "gray-matter": "^4.0.3",
-    "next": "^11.1.2"
+    "next": "^11.1.2",
+    "remark": "^13.0.0",
+    "remark-html": "^13.0.2"
   },
   "devDependencies": {},
   "scripts": {
